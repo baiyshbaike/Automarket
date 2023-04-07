@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automarket", "Automarket\Automarket.csproj", "{1654F169-E504-4429-A061-EC59858FEFC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{DD95B79C-3095-4A80-B5CA-A6A2B4F180AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automarket.Domain", "Automarket.Domain\Automarket.Domain.csproj", "{32E34CAC-1B6C-491E-B011-1F030628C83A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{32329202-7F6C-4D00-BE38-13F3174B273B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automarket.DAL", "Automarket.DAL\Automarket.DAL.csproj", "{6AB9DDD8-F12D-48CB-B7A4-5F030942D8FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1654F169-E504-4429-A061-EC59858FEFC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1654F169-E504-4429-A061-EC59858FEFC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1654F169-E504-4429-A061-EC59858FEFC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1654F169-E504-4429-A061-EC59858FEFC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E34CAC-1B6C-491E-B011-1F030628C83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E34CAC-1B6C-491E-B011-1F030628C83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E34CAC-1B6C-491E-B011-1F030628C83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E34CAC-1B6C-491E-B011-1F030628C83A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB9DDD8-F12D-48CB-B7A4-5F030942D8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB9DDD8-F12D-48CB-B7A4-5F030942D8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB9DDD8-F12D-48CB-B7A4-5F030942D8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB9DDD8-F12D-48CB-B7A4-5F030942D8FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{32E34CAC-1B6C-491E-B011-1F030628C83A} = {DD95B79C-3095-4A80-B5CA-A6A2B4F180AC}
+		{6AB9DDD8-F12D-48CB-B7A4-5F030942D8FD} = {32329202-7F6C-4D00-BE38-13F3174B273B}
+	EndGlobalSection
+EndGlobal

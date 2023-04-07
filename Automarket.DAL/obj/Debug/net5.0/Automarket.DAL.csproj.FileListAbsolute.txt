@@ -1,0 +1,15 @@
+D:\Programming\backend\C#\Automarket\Automarket.DAL\bin\Debug\net5.0\Automarket.DAL.deps.json
+D:\Programming\backend\C#\Automarket\Automarket.DAL\bin\Debug\net5.0\Automarket.DAL.dll
+D:\Programming\backend\C#\Automarket\Automarket.DAL\bin\Debug\net5.0\ref\Automarket.DAL.dll
+D:\Programming\backend\C#\Automarket\Automarket.DAL\bin\Debug\net5.0\Automarket.DAL.pdb
+D:\Programming\backend\C#\Automarket\Automarket.DAL\bin\Debug\net5.0\Automarket.Domain.dll
+D:\Programming\backend\C#\Automarket\Automarket.DAL\bin\Debug\net5.0\Automarket.Domain.pdb
+D:\Programming\backend\C#\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.csproj.AssemblyReference.cache
+D:\Programming\backend\C#\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\backend\C#\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.AssemblyInfoInputs.cache
+D:\Programming\backend\C#\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.AssemblyInfo.cs
+D:\Programming\backend\C#\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.csproj.CoreCompileInputs.cache
+D:\Programming\backend\C#\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.csproj.CopyComplete
+D:\Programming\backend\C#\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.dll
+D:\Programming\backend\C#\Automarket\Automarket.DAL\obj\Debug\net5.0\ref\Automarket.DAL.dll
+D:\Programming\backend\C#\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.pdb
