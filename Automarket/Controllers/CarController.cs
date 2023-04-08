@@ -19,7 +19,7 @@ namespace Automarket.Controllers
         public async Task<IActionResult> GetCars()
         {
             var respnse = await _carService.GetCars();
-            if (respnse.StatusCode == Domain.Enum.StatusCode.ok)
+            if (respnse.StatusCode == Domain.Enum.StatusCode.OK)
             {
                 return View(respnse.Data);
             }
