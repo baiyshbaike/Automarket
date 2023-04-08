@@ -1,6 +1,5 @@
 D:\Programming\backend\C#\Automarket\Automarket.DAL\bin\Debug\net5.0\Automarket.DAL.deps.json
 D:\Programming\backend\C#\Automarket\Automarket.DAL\bin\Debug\net5.0\Automarket.DAL.dll
-D:\Programming\backend\C#\Automarket\Automarket.DAL\bin\Debug\net5.0\ref\Automarket.DAL.dll
 D:\Programming\backend\C#\Automarket\Automarket.DAL\bin\Debug\net5.0\Automarket.DAL.pdb
 D:\Programming\backend\C#\Automarket\Automarket.DAL\bin\Debug\net5.0\Automarket.Domain.dll
 D:\Programming\backend\C#\Automarket\Automarket.DAL\bin\Debug\net5.0\Automarket.Domain.pdb
@@ -13,3 +12,4 @@ D:\Programming\backend\C#\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.
 D:\Programming\backend\C#\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.dll
 D:\Programming\backend\C#\Automarket\Automarket.DAL\obj\Debug\net5.0\ref\Automarket.DAL.dll
 D:\Programming\backend\C#\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.pdb
+D:\Programming\backend\C#\Automarket\Automarket.DAL\bin\Debug\net5.0\ref\Automarket.DAL.dll

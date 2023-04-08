@@ -1,6 +1,5 @@
 D:\Programming\backend\C#\Automarket\Automarket.Domain\bin\Debug\net5.0\Automarket.Domain.deps.json
 D:\Programming\backend\C#\Automarket\Automarket.Domain\bin\Debug\net5.0\Automarket.Domain.dll
-D:\Programming\backend\C#\Automarket\Automarket.Domain\bin\Debug\net5.0\ref\Automarket.Domain.dll
 D:\Programming\backend\C#\Automarket\Automarket.Domain\bin\Debug\net5.0\Automarket.Domain.pdb
 D:\Programming\backend\C#\Automarket\Automarket.Domain\obj\Debug\net5.0\Automarket.Domain.csproj.AssemblyReference.cache
 D:\Programming\backend\C#\Automarket\Automarket.Domain\obj\Debug\net5.0\Automarket.Domain.GeneratedMSBuildEditorConfig.editorconfig
@@ -10,3 +9,4 @@ D:\Programming\backend\C#\Automarket\Automarket.Domain\obj\Debug\net5.0\Automark
 D:\Programming\backend\C#\Automarket\Automarket.Domain\obj\Debug\net5.0\Automarket.Domain.dll
 D:\Programming\backend\C#\Automarket\Automarket.Domain\obj\Debug\net5.0\ref\Automarket.Domain.dll
 D:\Programming\backend\C#\Automarket\Automarket.Domain\obj\Debug\net5.0\Automarket.Domain.pdb
+D:\Programming\backend\C#\Automarket\Automarket.Domain\bin\Debug\net5.0\ref\Automarket.Domain.dll

@@ -5,7 +5,6 @@ D:\Programming\backend\C#\Automarket\Automarket\bin\Debug\net5.0\Automarket.deps
 D:\Programming\backend\C#\Automarket\Automarket\bin\Debug\net5.0\Automarket.runtimeconfig.json
 D:\Programming\backend\C#\Automarket\Automarket\bin\Debug\net5.0\Automarket.runtimeconfig.dev.json
 D:\Programming\backend\C#\Automarket\Automarket\bin\Debug\net5.0\Automarket.dll
-D:\Programming\backend\C#\Automarket\Automarket\bin\Debug\net5.0\ref\Automarket.dll
 D:\Programming\backend\C#\Automarket\Automarket\bin\Debug\net5.0\Automarket.pdb
 D:\Programming\backend\C#\Automarket\Automarket\bin\Debug\net5.0\Automarket.Views.dll
 D:\Programming\backend\C#\Automarket\Automarket\bin\Debug\net5.0\Automarket.Views.pdb
@@ -73,3 +72,4 @@ D:\Programming\backend\C#\Automarket\Automarket\bin\Debug\net5.0\runtimes\win\li
 D:\Programming\backend\C#\Automarket\Automarket\bin\Debug\net5.0\Automarket.DAL.dll
 D:\Programming\backend\C#\Automarket\Automarket\bin\Debug\net5.0\Automarket.DAL.pdb
 D:\Programming\backend\C#\Automarket\Automarket\obj\Debug\net5.0\Razor\Views\Car\GetCars.cshtml.g.cs
+D:\Programming\backend\C#\Automarket\Automarket\obj\Debug\net5.0\refint\Automarket.dll
