@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 using Automarket.DAL;
 using Automarket.DAL.Interfaces;
 using Automarket.DAL.Repositories;
+using Automarket.Service.Implementations;
+using Automarket.Service.Interfaces;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -32,6 +34,7 @@ namespace Automarket
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(connection));
             services.AddScoped<ICarRepository,CarRepository>();
+            services.AddScoped<ICarService, CarService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
