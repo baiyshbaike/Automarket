@@ -6,13 +6,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6df37ce9-b6a1-48a3-9533-b43820f54faf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Automarket.Domain/ViewModels/Car/CarViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automarket/Views/Car/GetCar.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Automarket/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Automarket/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.DAL/Interfaces/IBaseRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.DAL/Interfaces/IBaseRepository.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Automarket.DAL/Repositories/CarRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.DAL/Repositories/CarRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.DAL/bin/Debug/net5.0/Automarket.DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.DAL/bin/Debug/net5.0/Automarket.DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.DAL/bin/Debug/net5.0/Automarket.DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.DAL/bin/Debug/net5.0/Automarket.DAL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.DAL/bin/Debug/net5.0/Automarket.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.DAL/bin/Debug/net5.0/Automarket.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.DAL/bin/Debug/net5.0/Automarket.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.DAL/bin/Debug/net5.0/Automarket.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.DAL/obj/Debug/net5.0/Automarket.DAL.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.DAL/obj/Debug/net5.0/Automarket.DAL.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.DAL/obj/Debug/net5.0/Automarket.DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.DAL/obj/Debug/net5.0/Automarket.DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.DAL/obj/Debug/net5.0/Automarket.DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.DAL/obj/Debug/net5.0/Automarket.DAL.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Automarket.Domain/Enum/StatusCode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Domain/Enum/StatusCode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automarket.Domain/obj/Debug/net5.0/Automarket.Domain.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Domain/obj/Debug/net5.0/Automarket.Domain.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Domain/ViewModels/Car/CarViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Domain/ViewModels/Car/CarViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Domain/bin/Debug/net5.0/Automarket.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Domain/bin/Debug/net5.0/Automarket.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Domain/bin/Debug/net5.0/Automarket.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Domain/bin/Debug/net5.0/Automarket.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Domain/bin/Debug/net5.0/ref/Automarket.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Domain/bin/Debug/net5.0/ref/Automarket.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Domain/obj/Debug/net5.0/Automarket.Domain.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Domain/obj/Debug/net5.0/Automarket.Domain.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Domain/obj/Debug/net5.0/Automarket.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Domain/obj/Debug/net5.0/Automarket.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Domain/obj/Debug/net5.0/Automarket.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Domain/obj/Debug/net5.0/Automarket.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Domain/obj/Debug/net5.0/ref/Automarket.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Domain/obj/Debug/net5.0/ref/Automarket.Domain.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Automarket.Service/Implementations/CarService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Service/Implementations/CarService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Service/Interfaces/ICarService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Service/Interfaces/ICarService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Service/bin/Debug/net5.0/Automarket.DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Service/bin/Debug/net5.0/Automarket.DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Service/bin/Debug/net5.0/Automarket.DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Service/bin/Debug/net5.0/Automarket.DAL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Service/bin/Debug/net5.0/Automarket.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Service/bin/Debug/net5.0/Automarket.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Service/bin/Debug/net5.0/Automarket.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Service/bin/Debug/net5.0/Automarket.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Service/bin/Debug/net5.0/Automarket.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Service/bin/Debug/net5.0/Automarket.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Service/bin/Debug/net5.0/Automarket.Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Service/bin/Debug/net5.0/Automarket.Service.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Service/bin/Debug/net5.0/ref/Automarket.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Service/bin/Debug/net5.0/ref/Automarket.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Service/obj/Debug/net5.0/Automarket.Service.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Service/obj/Debug/net5.0/Automarket.Service.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Service/obj/Debug/net5.0/Automarket.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Service/obj/Debug/net5.0/Automarket.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Service/obj/Debug/net5.0/Automarket.Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Service/obj/Debug/net5.0/Automarket.Service.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket.Service/obj/Debug/net5.0/ref/Automarket.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket.Service/obj/Debug/net5.0/ref/Automarket.Service.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Automarket/Controllers/CarController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket/Controllers/CarController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.DAL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.Service.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket/bin/Debug/net5.0/Automarket.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket/obj/Debug/net5.0/Automarket.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket/obj/Debug/net5.0/Automarket.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket/obj/Debug/net5.0/Automarket.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket/obj/Debug/net5.0/Automarket.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket/obj/Debug/net5.0/Automarket.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket/obj/Debug/net5.0/Automarket.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket/obj/Debug/net5.0/Automarket.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket/obj/Debug/net5.0/Automarket.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automarket/obj/Debug/net5.0/Automarket.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Automarket/obj/Debug/net5.0/Automarket.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,24 +77,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "CodeLensConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CodeLensConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\baiys\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\baiys\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\baiys\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\baiys\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\baiys\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\baiys\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Automarket">
     <configuration name="Automarket" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Automarket/Automarket.csproj" />
@@ -97,6 +139,8 @@
       <workItem from="1680845705767" duration="3439000" />
       <workItem from="1680849533326" duration="487000" />
       <workItem from="1680935844207" duration="13472000" />
+      <workItem from="1680983298595" duration="1006000" />
+      <workItem from="1681026319902" duration="4528000" />
     </task>
     <servers />
   </component>

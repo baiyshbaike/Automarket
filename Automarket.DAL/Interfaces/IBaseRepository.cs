@@ -11,5 +11,6 @@ namespace Automarket.DAL.Interfaces
         Task<Car> Get(int id);
         Task<List<Car>> select();
         Task<bool> Delete(T entity);
+        Task<T> Update(T entity);
     }
 }
