@@ -75,3 +75,5 @@ D:\Programming\backend\C#\Automarket\Automarket\obj\Debug\net5.0\Razor\Views\Car
 D:\Programming\backend\C#\Automarket\Automarket\bin\Debug\net5.0\ref\Automarket.dll
 D:\Programming\backend\C#\Automarket\Automarket\bin\Debug\net5.0\Automarket.Service.dll
 D:\Programming\backend\C#\Automarket\Automarket\bin\Debug\net5.0\Automarket.Service.pdb
+D:\Programming\backend\C#\Automarket\Automarket\obj\Debug\net5.0\Razor\Views\Car\GetCar.cshtml.g.cs
+D:\Programming\backend\C#\Automarket\Automarket\obj\Debug\net5.0\Razor\Views\Car\Save.cshtml.g.cs
